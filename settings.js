@@ -12,18 +12,18 @@ global.baileys = require('@whiskeysockets/baileys')
 global.pw = 'titi_apip_kriput' 
 
 // SETTING WHATSAPP BOT
-global.owner = '6285727785143@s.whatsapp.net' // akses owner
-global.owner2 = '6285727785143' // nomor owner
-global.nomorbot = '6285727785143' // nomor bot nya
-global.namabotnya = 'Kym Bot Whatsapp' // nama bot
+global.owner = '62881011248547@s.whatsapp.net' // akses owner
+global.owner2 = '62881011248547' // nomor owner
+global.nomorbot = '6285711654909' // nomor bot nya
+global.namabotnya = 'ADAYBOTZ⚡' // nama bot
 global.idgcs = "12036325805939@g.us" // opsional ID group
 global.idsal = "120363198449557@newsletter" // opsional ID saluran
 global.idnotice = '120363250825067@newsletter' // harus di isi
 
 // CREATOR OPTION
-global.namaownernya = 'Lyosh' // owner name
-global.packname = '©Powered By Lyosh' // watermark
-global.author = 'Lyosh' // your name
+global.namaownernya = 'Aldy' // owner name
+global.packname = '©Powered By Aldy' // watermark
+global.author = 'Aldy' // your name
 global.sessionName = 'session' // dont change
 global.versi = '1.0.0'
 // THUMBNAIL PP BOT
