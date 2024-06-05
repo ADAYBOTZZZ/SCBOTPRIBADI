@@ -42,7 +42,7 @@ global.usePairingCode = true
 global.pairingNumber = '6283189242715'
 
 // SET OWNER
-global.fake = 'Kym Beta'
+global.fake = 'Aldyyy'
 global.email = 'adaystore2007@gmail.com'
 global.group = 'https://chat.whatsapp.com/BFgdcsk7mCfDtBTrAUdcTh'
 global.saluran = '-'
