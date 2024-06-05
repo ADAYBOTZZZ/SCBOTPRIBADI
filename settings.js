@@ -43,13 +43,13 @@ global.pairingNumber = '6283189242715'
 
 // SET OWNER
 global.fake = 'Kym Beta'
-global.email = '@gmail.com'
-global.group = 'chat.whatsapp.com/FkPsAtor8FU5nlrl2Ai3xK'
-global.saluran = 'https://whatsapp.com/channel/lyosh_'
-global.youtube = 'https://youtube.com/@lyosh_'
-global.instagram = 'https://instagram.com/'
-global.github = 'https://github.com/'
-global.wame = 'https://wa.me/6285727785143'
+global.email = 'adaystore2007@gmail.com'
+global.group = 'https://chat.whatsapp.com/BFgdcsk7mCfDtBTrAUdcTh'
+global.saluran = '-'
+global.youtube = '-'
+global.instagram = 'https://www.instagram.com/aldyyyprtamaaa__?igsh=MWF3bnFycTY4eXljaw=='
+global.github = 'https://github.com/ADAYBOTZZZ'
+global.wame = 'https://wa.me/62881011248547'
 global.region = 'I`m From Indonesia'
 
 // TEXT WELCOME
