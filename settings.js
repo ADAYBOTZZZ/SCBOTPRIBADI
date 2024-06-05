@@ -9,7 +9,7 @@ global.version = require('@whiskeysockets/baileys/package.json').version
 global.baileys = require('@whiskeysockets/baileys') 
 
 //PASSWORD SCRIPT 🫳
-global.pw = 'titit' 
+global.pw = 'titi_apip_kriput' 
 
 // SETTING WHATSAPP BOT
 global.owner = '6285727785143@s.whatsapp.net' // akses owner
