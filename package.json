@@ -5,7 +5,7 @@
   "main": "koplak.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node koplak.js"
+    "start": "npm i -g pm2 && pm2 start koplak.js && pm2 save && pm2 logs"
   },
   "keywords": [
     "termux",
